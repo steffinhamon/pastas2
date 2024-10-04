@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(116, 120, 167);
+    margin: 0px;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.texto1{
+    text-align: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    flex-wrap: wrap;
+    font-size: 27px;
+}
+ .lista{
+    width: 400px;
+    margin: auto;
+    border-width: 90px;
+    border-style: solid; 
+    border-color: black;  
+    display: flex;
+   
+ }
+ .menu{
+    background-color: aqua;
+    display: flex;
+ }
